@@ -1,0 +1,30 @@
+==========================================
+              Nome da empresa              
+===========================================
+********** NAO E DOCUMENTO FISCAL *********
+===========================================
+PRODUTO      QTDE      VALOR UN.      VALOR
+24        Pão de Forma Amalfi              1        4.5    
+24        Pão de Forma Amalfi              1        4.5    
+===========================================
+   INFORMACOES PARA FECHAMENTO DE CONTA    
+===========================================
+ GARCOM  CONTA.DIV.  VAL.PESS. COVER  DESC.
+ garcom  dividirconta   vlpessoa  cover   desconto
+===========================================
+SubTotal                            10,00
+                   ------------------------
+Total                                10,00
+===========================================
+       MENSAGEM DA EMPRESA VAI AQUI        
+   INFORMACOES PARA FECHAMENTO DE CONTA    
+
+
+
+
+
+
+
+
+
+

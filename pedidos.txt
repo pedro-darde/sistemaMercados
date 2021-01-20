@@ -1,0 +1,1160 @@
+==========11/11/2020 18:03:58==============
+PEDIDO DE NÚMER0 538=====
+===========================================
+********** NAO E DOCUMENTO FISCAL *********
+===========================================
+PRODUTO                  QTDE      VALOR UN.        PESO
+Pão de Forma Amalfi       45    2.50        0.185        
+Pão Integral Amalfi       45    2.50        0.185        
+===========================================
+   INFORMACOES PARA FECHAMENTO DE CONTA    
+===========================================
+
+===========================================
+                   ------------------------
+QUANTIDADE TOTAL _____________________________  90
+PESO TOTAL _____________________________  16.65
+VALOR TOTAL _____________________________  225.0
+FRETE _____________________________  45
+===========================================
+       ABRAÇO E VOLTE SEMPRE        
+   INFORMACOES PARA FECHAMENTO DE CONTA    
+
+
+
+
+
+
+
+
+
+
+==========11/11/2020 18:09:24==============
+PEDIDO DE NÚMER0 539=======================
+===========================================
+********** NAO E DOCUMENTO FISCAL *********
+===========================================
+PRODUTO                  QTDE VALOR UN   PESO
+Pão Bonavie Forma    45  2.25  0.125 
+Pão Bonavie Forma    45  2.25  0.125 
+===========================================
+   INFORMACOES PARA FECHAMENTO DE CONTA    
+===========================================
+
+===========================================
+                   ------------------------
+QUANTIDADE TOTAL _____________________________  90
+PESO TOTAL _____________________________  11.25
+VALOR TOTAL _____________________________  202.5
+FRETE _____________________________  55
+===========================================
+       ABRAÇO E VOLTE SEMPRE        
+   INFORMACOES PARA FECHAMENTO DE CONTA    
+
+
+
+
+
+
+
+
+
+
+==========11/11/2020 18:12:20==============
+PEDIDO DE NÚMER0 540=======================
+===========================================
+********** NAO E DOCUMENTO FISCAL *********
+===========================================
+PRODUTO         QTDE VALOR UN   PESO
+Pão Fitpan 14 Grãos Amalfi    85  4.55  0.250 
+Pão de Forma Tradicional    25  2.50  0.250 
+===========================================
+   INFORMACOES PARA FECHAMENTO DE CONTA    
+===========================================
+
+===========================================
+                   ------------------------
+QUANTIDADE TOTAL     110
+PESO TOTAL           27.5
+VALOR TOTAL          449.25
+FRETE                65
+===========================================
+       ABRAÇO E VOLTE SEMPRE        
+   INFORMACOES PARA FECHAMENTO DE CONTA    
+
+
+
+
+
+
+
+
+
+
+==========11/11/2020 18:14:32==============
+PEDIDO DE NÚMER0 541=======================
+===========================================
+********** NAO E DOCUMENTO FISCAL *********
+===========================================
+PRODUTO                         QTDE        VALOR UN         PESO
+Panetone Amalfi    45  9.95  0.450 
+Chocotone Amalfi    45  9.95  0.450 
+===========================================
+   INFORMACOES PARA FECHAMENTO DE CONTA    
+===========================================
+
+===========================================
+                   ------------------------
+QUANTIDADE TOTAL     90
+PESO TOTAL           40.5
+VALOR TOTAL          895.4999999999999
+FRETE                40
+===========================================
+       ABRAÇO E VOLTE SEMPRE        
+   INFORMACOES PARA FECHAMENTO DE CONTA    
+
+
+
+
+
+
+
+
+
+
+==========11/11/2020 18:17:14==============
+PEDIDO DE NÚMER0 542=======================
+===========================================
+********** NAO E DOCUMENTO FISCAL *********
+===========================================
+PRODUTO           QTDE    VALOR UN     PESO
+Pão de Forma Tradicional Amalfi    120  2.50  0.25 
+===========================================
+   INFORMACOES PARA FECHAMENTO DE CONTA    
+===========================================
+
+===========================================
+                   ------------------------
+QUANTIDADE TOTAL     120
+PESO TOTAL           30.0
+VALOR TOTAL          300.0
+FRETE                54
+===========================================
+       ABRAÇO E VOLTE SEMPRE        
+   INFORMACOES PARA FECHAMENTO DE CONTA    
+
+
+
+
+
+
+
+
+
+
+==========12/11/2020 10:28:21==============
+PEDIDO DE NÚMER0 76=======================
+===========================================
+********** NAO E DOCUMENTO FISCAL *********
+===========================================
+PRODUTO           QTDE    VALOR UN     PESO
+Pepsi Cola    150  2.25  0.150 
+===========================================
+   INFORMACOES PARA FECHAMENTO DE CONTA    
+===========================================
+
+===========================================
+                   ------------------------
+QUANTIDADE TOTAL     150
+PESO TOTAL           22.5
+VALOR TOTAL          337.5
+FRETE                45
+===========================================
+       ABRAÇO E VOLTE SEMPRE        
+   INFORMACOES PARA FECHAMENTO DE CONTA    
+
+
+
+
+
+
+
+
+
+
+==========12/11/2020 12:02:11==============
+PEDIDO DE NÚMER0 77=======================
+===========================================
+********** NAO E DOCUMENTO FISCAL *********
+===========================================
+PRODUTO           QTDE    VALOR UN     PESO
+Ping d' Ouro    25  2.25  0.125 
+===========================================
+   INFORMACOES PARA FECHAMENTO DE CONTA    
+===========================================
+
+===========================================
+                   ------------------------
+QUANTIDADE TOTAL     25
+PESO TOTAL           3.125
+VALOR TOTAL          56.25
+FRETE                
+===========================================
+       ABRAÇO E VOLTE SEMPRE        
+   INFORMACOES PARA FECHAMENTO DE CONTA    
+
+
+
+
+
+
+
+
+
+
+==========12/11/2020 12:03:51==============
+PEDIDO DE NÚMER0 78=======================
+===========================================
+********** NAO E DOCUMENTO FISCAL *********
+===========================================
+PRODUTO           QTDE    VALOR UN     PESO
+Pingo d'Ouro    45  2.25  0.125 
+===========================================
+   INFORMACOES PARA FECHAMENTO DE CONTA    
+===========================================
+
+===========================================
+                   ------------------------
+QUANTIDADE TOTAL     45
+PESO TOTAL           5.625
+VALOR TOTAL          101.25
+FRETE                55
+===========================================
+       ABRAÇO E VOLTE SEMPRE        
+   INFORMACOES PARA FECHAMENTO DE CONTA    
+
+
+
+
+
+
+
+
+
+
+==========12/11/2020 12:11:38==============
+PEDIDO DE NÚMER0 79=======================
+===========================================
+********** NAO E DOCUMENTO FISCAL *********
+===========================================
+PRODUTO           QTDE    VALOR UN     PESO
+Pepsi 2 Litros    25   5  0.500 
+===========================================
+   INFORMACOES PARA FECHAMENTO DE CONTA    
+===========================================
+
+===========================================
+                   ------------------------
+QUANTIDADE TOTAL     25
+PESO TOTAL           12.5
+VALOR TOTAL          125.0
+FRETE                50
+===========================================
+       ABRAÇO E VOLTE SEMPRE        
+   INFORMACOES PARA FECHAMENTO DE CONTA    
+
+
+
+
+
+
+
+
+
+
+==========12/11/2020 12:12:46==============
+PEDIDO DE NÚMER0 80=======================
+===========================================
+********** NAO E DOCUMENTO FISCAL *********
+===========================================
+PRODUTO           QTDE    VALOR UN     PESO
+===========================================
+   INFORMACOES PARA FECHAMENTO DE CONTA    
+===========================================
+
+===========================================
+                   ------------------------
+QUANTIDADE TOTAL     25
+PESO TOTAL           12.5
+VALOR TOTAL          125.0
+FRETE                50
+===========================================
+       ABRAÇO E VOLTE SEMPRE        
+   INFORMACOES PARA FECHAMENTO DE CONTA    
+
+
+
+
+
+
+
+
+
+
+==========12/11/2020 12:14:28==============
+PEDIDO DE NÚMER0 80=======================
+===========================================
+********** NAO E DOCUMENTO FISCAL *********
+===========================================
+PRODUTO           QTDE    VALOR UN     PESO
+Coca Cola    45  2.74  0.125 
+===========================================
+   INFORMACOES PARA FECHAMENTO DE CONTA    
+===========================================
+
+===========================================
+                   ------------------------
+QUANTIDADE TOTAL     45
+PESO TOTAL           5.625
+VALOR TOTAL          123.30000000000001
+FRETE                25
+===========================================
+       ABRAÇO E VOLTE SEMPRE        
+   INFORMACOES PARA FECHAMENTO DE CONTA    
+
+
+
+
+
+
+
+
+
+
+==========12/11/2020 12:18:36==============
+PEDIDO DE NÚMER0 81=======================
+===========================================
+********** NAO E DOCUMENTO FISCAL *********
+===========================================
+PRODUTO           QTDE    VALOR UN     PESO
+Coca Cola    50  2.55  0.15 
+===========================================
+   INFORMACOES PARA FECHAMENTO DE CONTA    
+===========================================
+
+===========================================
+                   ------------------------
+QUANTIDADE TOTAL     50
+PESO TOTAL           7.5
+VALOR TOTAL          127.49999999999999
+FRETE                50
+===========================================
+       ABRAÇO E VOLTE SEMPRE        
+   INFORMACOES PARA FECHAMENTO DE CONTA    
+
+
+
+
+
+
+
+
+
+
+==========12/11/2020 12:22:54==============
+PEDIDO DE NÚMER0 82=======================
+===========================================
+********** NAO E DOCUMENTO FISCAL *********
+===========================================
+PRODUTO           QTDE    VALOR UN     PESO
+Fruki Cola    150  2.25  0.15 
+Água da Pedra 500 ml    150  1.45  0.15 
+===========================================
+   INFORMACOES PARA FECHAMENTO DE CONTA    
+===========================================
+
+===========================================
+                   ------------------------
+QUANTIDADE TOTAL     300
+PESO TOTAL           45.0
+VALOR TOTAL          555.0
+FRETE                
+===========================================
+       ABRAÇO E VOLTE SEMPRE        
+   INFORMACOES PARA FECHAMENTO DE CONTA    
+
+
+
+
+
+
+
+
+
+
+==========12/11/2020 12:29:42==============
+PEDIDO DE NÚMER0 83=======================
+===========================================
+********** NAO E DOCUMENTO FISCAL *********
+===========================================
+PRODUTO           QTDE    VALOR UN     PESO
+Fruki Guaraná    100  2.25  0.150 
+===========================================
+   INFORMACOES PARA FECHAMENTO DE CONTA    
+===========================================
+
+===========================================
+                   ------------------------
+QUANTIDADE TOTAL     100
+PESO TOTAL           15.0
+VALOR TOTAL          225.0
+FRETE                50
+===========================================
+       ABRAÇO E VOLTE SEMPRE        
+   INFORMACOES PARA FECHAMENTO DE CONTA    
+
+
+
+
+
+
+
+
+
+
+==========12/11/2020 12:34:58==============
+PEDIDO DE NÚMER0 84=======================
+===========================================
+********** NAO E DOCUMENTO FISCAL *********
+===========================================
+PRODUTO           QTDE    VALOR UN     PESO
+Fruki Laranja    95  1.99  0.150 
+Fruki Limão    95  1.99  0.150 
+===========================================
+   INFORMACOES PARA FECHAMENTO DE CONTA    
+===========================================
+
+===========================================
+                   ------------------------
+QUANTIDADE TOTAL     190
+PESO TOTAL           28.5
+VALOR TOTAL          378.1
+FRETE                56
+===========================================
+       ABRAÇO E VOLTE SEMPRE        
+   INFORMACOES PARA FECHAMENTO DE CONTA    
+
+
+
+
+
+
+
+
+
+
+==========12/11/2020 12:39:26==============
+PEDIDO DE NÚMER0 85=======================
+===========================================
+********** NAO E DOCUMENTO FISCAL *********
+===========================================
+PRODUTO           QTDE    VALOR UN     PESO
+Ruffles    50  3.25  0.350 
+Doritos    50  3.25  0.350 
+===========================================
+   INFORMACOES PARA FECHAMENTO DE CONTA    
+===========================================
+
+===========================================
+                   ------------------------
+QUANTIDADE TOTAL     100
+PESO TOTAL           35.0
+VALOR TOTAL          325.0
+FRETE                150
+===========================================
+       ABRAÇO E VOLTE SEMPRE        
+   INFORMACOES PARA FECHAMENTO DE CONTA    
+
+
+
+
+
+
+
+
+
+
+==========12/11/2020 12:43:05==============
+PEDIDO DE NÚMER0 86=======================
+===========================================
+********** NAO E DOCUMENTO FISCAL *********
+===========================================
+PRODUTO           QTDE    VALOR UN     PESO
+Gatorade Laranja    25  4.75  0.250 
+Gatorade Uva    25  4.75  0.250 
+Gatorade Frutas Cítricas    25  4.75  0.250 
+===========================================
+   INFORMACOES PARA FECHAMENTO DE CONTA    
+===========================================
+
+===========================================
+                   ------------------------
+QUANTIDADE TOTAL     75
+PESO TOTAL           18.75
+VALOR TOTAL          356.25
+FRETE                45
+===========================================
+       ABRAÇO E VOLTE SEMPRE        
+   INFORMACOES PARA FECHAMENTO DE CONTA    
+
+
+
+
+
+
+
+
+
+
+==========12/11/2020 12:45:44==============
+PEDIDO DE NÚMER0 87=======================
+===========================================
+********** NAO E DOCUMENTO FISCAL *********
+===========================================
+PRODUTO           QTDE    VALOR UN     PESO
+Gatorade Maracuja    45  4.75  0.325 
+Gatorade Pessego    45  4.75  0.325 
+===========================================
+   INFORMACOES PARA FECHAMENTO DE CONTA    
+===========================================
+
+===========================================
+                   ------------------------
+QUANTIDADE TOTAL     90
+PESO TOTAL           29.25
+VALOR TOTAL          427.5
+FRETE                50
+===========================================
+       ABRAÇO E VOLTE SEMPRE        
+   INFORMACOES PARA FECHAMENTO DE CONTA    
+
+
+
+
+
+
+
+
+
+
+==========12/11/2020 12:52:51==============
+PEDIDO DE NÚMER0 88=======================
+===========================================
+********** NAO E DOCUMENTO FISCAL *********
+===========================================
+PRODUTO           QTDE    VALOR UN     PESO
+Teen    45  3.35  0.350 
+===========================================
+   INFORMACOES PARA FECHAMENTO DE CONTA    
+===========================================
+
+===========================================
+                   ------------------------
+QUANTIDADE TOTAL     45
+PESO TOTAL           15.749999999999998
+VALOR TOTAL          150.75
+FRETE                25
+===========================================
+       ABRAÇO E VOLTE SEMPRE        
+   INFORMACOES PARA FECHAMENTO DE CONTA    
+
+
+
+
+
+
+
+
+
+
+==========16/11/2020 09:35:44==============
+PEDIDO DE NÚMER0 89=======================
+===========================================
+********** NAO E DOCUMENTO FISCAL *********
+===========================================
+PRODUTO           QTDE    VALOR UN     PESO
+Gatorade Laranja 500ML    25  3.75  0.125 
+===========================================
+   INFORMACOES PARA FECHAMENTO DE CONTA    
+===========================================
+
+===========================================
+                   ------------------------
+QUANTIDADE TOTAL     25
+PESO TOTAL           3.125
+VALOR TOTAL          93.75
+FRETE                15
+===========================================
+       ABRAÇO E VOLTE SEMPRE        
+   INFORMACOES PARA FECHAMENTO DE CONTA    
+
+
+
+
+
+
+
+
+
+
+==========16/11/2020 09:37:08==============
+PEDIDO DE NÚMER0 90=======================
+===========================================
+********** NAO E DOCUMENTO FISCAL *********
+===========================================
+PRODUTO           QTDE    VALOR UN     PESO
+Gatorade Laranja 500ML    25  3.75  0.125 
+Gatorade Frutas Cítricas 500ML    25  3.75  0.125 
+===========================================
+   INFORMACOES PARA FECHAMENTO DE CONTA    
+===========================================
+
+===========================================
+                   ------------------------
+QUANTIDADE TOTAL     50
+PESO TOTAL           6.25
+VALOR TOTAL          187.5
+FRETE                15
+===========================================
+       ABRAÇO E VOLTE SEMPRE        
+   INFORMACOES PARA FECHAMENTO DE CONTA    
+
+
+
+
+
+
+
+
+
+
+==========16/11/2020 09:42:11==============
+PEDIDO DE NÚMER0 91=======================
+===========================================
+********** NAO E DOCUMENTO FISCAL *********
+===========================================
+PRODUTO           QTDE    VALOR UN     PESO
+Fandangos    45  2.85  0.250 
+Doritos    45  2.85  0.250 
+Ruffles    45  2.85  0.250 
+===========================================
+   INFORMACOES PARA FECHAMENTO DE CONTA    
+===========================================
+
+===========================================
+                   ------------------------
+QUANTIDADE TOTAL     135
+PESO TOTAL           33.75
+VALOR TOTAL          384.75
+FRETE                20
+===========================================
+       ABRAÇO E VOLTE SEMPRE        
+   INFORMACOES PARA FECHAMENTO DE CONTA    
+
+
+
+
+
+
+
+
+
+
+==========16/11/2020 10:01:51==============
+PEDIDO DE NÚMER0 92=======================
+===========================================
+********** NAO E DOCUMENTO FISCAL *********
+===========================================
+PRODUTO           QTDE    VALOR UN     PESO
+ArtPan Brioche Amalfi    15  6.00  0.250 
+ArtPan Vita C Chia Amalfi    15  6.00  0.250 
+===========================================
+   INFORMACOES PARA FECHAMENTO DE CONTA    
+===========================================
+
+===========================================
+                   ------------------------
+QUANTIDADE TOTAL     30
+PESO TOTAL           7.5
+VALOR TOTAL          180.0
+FRETE                45
+===========================================
+       ABRAÇO E VOLTE SEMPRE        
+   INFORMACOES PARA FECHAMENTO DE CONTA    
+
+
+
+
+
+
+
+
+
+
+==========16/11/2020 10:08:21==============
+PEDIDO DE NÚMER0 93=======================
+===========================================
+********** NAO E DOCUMENTO FISCAL *********
+===========================================
+PRODUTO           QTDE    VALOR UN     PESO
+Pão de Forma Trad Amalfi    120  2.50  0.250 
+Pão Integral Trad Amalfi    120  2.50  0.250 
+Pão Sete Grãos Trad Amalfi    25  2.50  0.250 
+===========================================
+   INFORMACOES PARA FECHAMENTO DE CONTA    
+===========================================
+
+===========================================
+                   ------------------------
+QUANTIDADE TOTAL     265
+PESO TOTAL           66.25
+VALOR TOTAL          662.5
+FRETE                49.90
+===========================================
+       ABRAÇO E VOLTE SEMPRE        
+   INFORMACOES PARA FECHAMENTO DE CONTA    
+
+
+
+
+
+
+
+
+
+
+==========16/11/2020 10:12:52==============
+PEDIDO DE NÚMER0 94=======================
+===========================================
+********** NAO E DOCUMENTO FISCAL *********
+===========================================
+PRODUTO           QTDE    VALOR UN     PESO
+Pão de Forma Amalfi    96  2.60  0.25 
+Pão Integral Amalfi    45  2.60  0.25 
+===========================================
+   INFORMACOES PARA FECHAMENTO DE CONTA    
+===========================================
+
+===========================================
+                   ------------------------
+QUANTIDADE TOTAL     141
+PESO TOTAL           35.25
+VALOR TOTAL          366.6
+FRETE                0
+===========================================
+       ABRAÇO E VOLTE SEMPRE        
+   INFORMACOES PARA FECHAMENTO DE CONTA    
+
+
+
+
+
+
+
+
+
+
+==========16/11/2020 10:15:45==============
+PEDIDO DE NÚMER0 95=======================
+===========================================
+********** NAO E DOCUMENTO FISCAL *********
+===========================================
+PRODUTO           QTDE    VALOR UN     PESO
+PÃO DE FORMA AMALFI    85  2.80  0.125 
+PÃO INTEGRAL AMALFI    45  2.95  0.125 
+PÃO SETE GRÃOS AMALFI    15  3.15  0.125 
+===========================================
+   INFORMACOES PARA FECHAMENTO DE CONTA    
+===========================================
+
+===========================================
+                   ------------------------
+QUANTIDADE TOTAL     145
+PESO TOTAL           18.125
+VALOR TOTAL          418.0
+FRETE                45
+===========================================
+       ABRAÇO E VOLTE SEMPRE        
+   INFORMACOES PARA FECHAMENTO DE CONTA    
+
+
+
+
+
+
+
+
+
+
+==========16/11/2020 10:18:26==============
+PEDIDO DE NÚMER0 96=======================
+===========================================
+********** NAO E DOCUMENTO FISCAL *********
+===========================================
+PRODUTO           QTDE    VALOR UN     PESO
+GATORADE LARANJA 500ML    15  3.50  0.125 
+GATORADE FRUTAS CÍTRICAS 500ML    15  3.50  0.125 
+GATORADE  UVA 500ML    15  3.50  0.125 
+===========================================
+   INFORMACOES PARA FECHAMENTO DE CONTA    
+===========================================
+
+===========================================
+                   ------------------------
+QUANTIDADE TOTAL     45
+PESO TOTAL           5.625
+VALOR TOTAL          157.5
+FRETE                25
+===========================================
+       ABRAÇO E VOLTE SEMPRE        
+   INFORMACOES PARA FECHAMENTO DE CONTA    
+
+
+
+
+
+
+
+
+
+
+==========16/11/2020 10:23:36==============
+PEDIDO DE NÚMER0 97=======================
+===========================================
+********** NAO E DOCUMENTO FISCAL *********
+===========================================
+PRODUTO           QTDE    VALOR UN     PESO
+Chuteira Mercurial TAM 37/38     5  220  0.450 
+Chuteira Mercurial TAM 38/39     5  220  0.450 
+Tênis de Corrida Nike     5  325  0.450 
+===========================================
+   INFORMACOES PARA FECHAMENTO DE CONTA    
+===========================================
+
+===========================================
+                   ------------------------
+QUANTIDADE TOTAL     15
+PESO TOTAL           6.75
+VALOR TOTAL          3825.0
+FRETE                120
+===========================================
+       ABRAÇO E VOLTE SEMPRE        
+   INFORMACOES PARA FECHAMENTO DE CONTA    
+
+
+
+
+
+
+
+
+
+
+==========16/11/2020 12:27:09==============
+PEDIDO DE NÚMER0 99=======================
+===========================================
+********** NAO E DOCUMENTO FISCAL *********
+===========================================
+PRODUTO           QTDE    VALOR UN     PESO
+Coca Cola     2   2  0.2 
+===========================================
+   INFORMACOES PARA FECHAMENTO DE CONTA    
+===========================================
+
+===========================================
+                   ------------------------
+QUANTIDADE TOTAL     2
+PESO TOTAL           0.4
+VALOR TOTAL          4.0
+FRETE                24
+===========================================
+       ABRAÇO E VOLTE SEMPRE        
+   INFORMACOES PARA FECHAMENTO DE CONTA    
+
+
+
+
+
+
+
+
+
+
+==========16/11/2020 13:12:41==============
+PEDIDO DE NÚMER0 100=======================
+===========================================
+********** NAO E DOCUMENTO FISCAL *********
+===========================================
+PRODUTO           QTDE    VALOR UN     PESO
+Fruki Cola    10  2.50  0.125 
+===========================================
+   INFORMACOES PARA FECHAMENTO DE CONTA    
+===========================================
+
+===========================================
+                   ------------------------
+QUANTIDADE TOTAL     10
+PESO TOTAL           1.25
+VALOR TOTAL          25.0
+FRETE                5
+===========================================
+       ABRAÇO E VOLTE SEMPRE        
+   INFORMACOES PARA FECHAMENTO DE CONTA    
+
+
+
+
+
+
+
+
+
+
+==========27/11/2020 14:07:50==============
+PEDIDO DE NÚMER0 1=======================
+===========================================
+********** NAO E DOCUMENTO FISCAL *********
+===========================================
+PRODUTO           QTDE    VALOR UN     PESO
+Tenis de Corrida Nike    25  250  0.250 
+Tenis de Futebol Nike    25  250  0.250 
+===========================================
+   INFORMACOES PARA FECHAMENTO DE CONTA    
+===========================================
+
+===========================================
+                   ------------------------
+QUANTIDADE TOTAL     50
+PESO TOTAL           12.5
+VALOR TOTAL          12500.0
+FRETE                45
+===========================================
+       ABRAÇO E VOLTE SEMPRE        
+   INFORMACOES PARA FECHAMENTO DE CONTA    
+
+
+
+
+
+
+
+
+
+
+==========30/11/2020 11:45:11==============
+PEDIDO DE NÚMER0 2=======================
+===========================================
+********** NAO E DOCUMENTO FISCAL *********
+===========================================
+PRODUTO           QTDE    VALOR UN     PESO
+IPHONE 7 PLUS 64GB    10  3.500  0.125 
+===========================================
+   INFORMACOES PARA FECHAMENTO DE CONTA    
+===========================================
+
+===========================================
+                   ------------------------
+QUANTIDADE TOTAL     10
+PESO TOTAL           1.25
+VALOR TOTAL          35.0
+FRETE                10
+===========================================
+       ABRAÇO E VOLTE SEMPRE        
+   INFORMACOES PARA FECHAMENTO DE CONTA    
+
+
+
+
+
+
+
+
+
+
+==========30/11/2020 13:22:41==============
+PEDIDO DE NÚMER0 3=======================
+===========================================
+********** NAO E DOCUMENTO FISCAL *********
+===========================================
+PRODUTO           QTDE    VALOR UN     PESO
+Mercurial    25  2550  0.125 
+===========================================
+   INFORMACOES PARA FECHAMENTO DE CONTA    
+===========================================
+
+===========================================
+                   ------------------------
+QUANTIDADE TOTAL     25
+PESO TOTAL           3.125
+VALOR TOTAL          63750.0
+FRETE                45
+===========================================
+       ABRAÇO E VOLTE SEMPRE        
+   INFORMACOES PARA FECHAMENTO DE CONTA    
+
+
+
+
+
+
+
+
+
+
+==========04/01/2021 14:44:04==============
+PEDIDO DE NÚMER0 4=======================
+===========================================
+********** NAO E DOCUMENTO FISCAL *********
+===========================================
+PRODUTO           QTDE    VALOR UN     PESO
+Coca cola lata 350 ml     450   2  0.125 
+Sprite lata 350 ml     450   2  0.125 
+===========================================
+   INFORMACOES PARA FECHAMENTO DE CONTA    
+===========================================
+
+===========================================
+                   ------------------------
+QUANTIDADE TOTAL     900
+PESO TOTAL           112.5
+VALOR TOTAL          1800.0
+FRETE                45
+===========================================
+       ABRAÇO E VOLTE SEMPRE        
+   INFORMACOES PARA FECHAMENTO DE CONTA    
+
+
+
+
+
+
+
+
+
+
+==========06/01/2021 16:24:00==============
+PEDIDO DE NÚMER0 5=======================
+===========================================
+********** NAO E DOCUMENTO FISCAL *********
+===========================================
+PRODUTO           QTDE    VALOR UN     PESO
+===========================================
+   INFORMACOES PARA FECHAMENTO DE CONTA    
+===========================================
+
+===========================================
+                   ------------------------
+QUANTIDADE TOTAL     
+PESO TOTAL           
+VALOR TOTAL          
+FRETE                
+===========================================
+       ABRAÇO E VOLTE SEMPRE        
+   INFORMACOES PARA FECHAMENTO DE CONTA    
+
+
+
+
+
+
+
+
+
+
+==========06/01/2021 16:24:08==============
+PEDIDO DE NÚMER0 5=======================
+===========================================
+********** NAO E DOCUMENTO FISCAL *********
+===========================================
+PRODUTO           QTDE    VALOR UN     PESO
+===========================================
+   INFORMACOES PARA FECHAMENTO DE CONTA    
+===========================================
+
+===========================================
+                   ------------------------
+QUANTIDADE TOTAL     
+PESO TOTAL           
+VALOR TOTAL          
+FRETE                
+===========================================
+       ABRAÇO E VOLTE SEMPRE        
+   INFORMACOES PARA FECHAMENTO DE CONTA    
+
+
+
+
+
+
+
+
+
+
+==========06/01/2021 16:24:37==============
+PEDIDO DE NÚMER0 5=======================
+===========================================
+********** NAO E DOCUMENTO FISCAL *********
+===========================================
+PRODUTO           QTDE    VALOR UN     PESO
+===========================================
+   INFORMACOES PARA FECHAMENTO DE CONTA    
+===========================================
+
+===========================================
+                   ------------------------
+QUANTIDADE TOTAL     
+PESO TOTAL           
+VALOR TOTAL          
+FRETE                
+===========================================
+       ABRAÇO E VOLTE SEMPRE        
+   INFORMACOES PARA FECHAMENTO DE CONTA    
+
+
+
+
+
+
+
+
+
+
+==========06/01/2021 16:24:50==============
+PEDIDO DE NÚMER0 5=======================
+===========================================
+********** NAO E DOCUMENTO FISCAL *********
+===========================================
+PRODUTO           QTDE    VALOR UN     PESO
+===========================================
+   INFORMACOES PARA FECHAMENTO DE CONTA    
+===========================================
+
+===========================================
+                   ------------------------
+QUANTIDADE TOTAL     
+PESO TOTAL           
+VALOR TOTAL          
+FRETE                
+===========================================
+       ABRAÇO E VOLTE SEMPRE        
+   INFORMACOES PARA FECHAMENTO DE CONTA    
+
+
+
+
+
+
+
+
+
+
